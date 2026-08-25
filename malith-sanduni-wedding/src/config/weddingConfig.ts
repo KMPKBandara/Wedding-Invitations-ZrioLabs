@@ -22,7 +22,7 @@ export const weddingConfig = {
     description:
       "Join Malith and Sanduni for their wedding celebration on 12 August 2027 in Kandy, Sri Lanka.",
     websiteUrl: "https://malithandsanduni.lk",
-    socialImage: "/og.png",
+    socialImage: "og.png",
   },
 
   couple: {
@@ -43,9 +43,9 @@ export const weddingConfig = {
   },
 
   images: {
-    hero: "/images/hero.png",
-    venue: "/images/venue.png",
-    details: "/images/details.png",
+    hero: "images/hero.png",
+    venue: "images/venue.png",
+    details: "images/details.png",
   },
 
   navigation: [
