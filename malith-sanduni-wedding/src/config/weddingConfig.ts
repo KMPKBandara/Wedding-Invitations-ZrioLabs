@@ -228,37 +228,37 @@ export const weddingConfig = {
     nextLabel: "Next image",
     images: [
       {
-        src: "/images/hero.png",
+        src: "images/hero.png",
         alt: "Malith and Sanduni in the Sri Lankan tea hills",
         position: "center",
         className: "gallery-wide gallery-tall",
       },
       {
-        src: "/images/details.png",
+        src: "images/details.png",
         alt: "Wedding stationery and ring details",
         position: "center",
         className: "gallery-tall",
       },
       {
-        src: "/images/venue.png",
+        src: "images/venue.png",
         alt: "Candlelit outdoor wedding reception",
         position: "center",
         className: "gallery-wide",
       },
       {
-        src: "/images/hero.png",
+        src: "images/hero.png",
         alt: "A quiet moment in Nuwara Eliya",
         position: "72% center",
         className: "",
       },
       {
-        src: "/images/venue.png",
+        src: "images/venue.png",
         alt: "Ivory flowers and warm lanterns",
         position: "22% center",
         className: "",
       },
       {
-        src: "/images/details.png",
+        src: "images/details.png",
         alt: "Handmade wedding invitation details",
         position: "65% center",
         className: "",
